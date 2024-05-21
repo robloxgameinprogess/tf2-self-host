@@ -1,5 +1,5 @@
-# ARCHIVED: I don't feel like actively working on this anymore. I might pick it up later if I think it serves any use, but feel free to fork it and continue working on it if you wish.
-
+NOTE: This is not mine, the original can be found here: https://github.com/Infinixius/tf2api/tree/main 
+These files are edited in order to self host and use my APIs project
 # tf2api
 
 A web API for parsing the Team Fortress 2 wiki and getting relevant information from it.
@@ -74,5 +74,3 @@ Example: `https://tf2api.herokuapp.com/getWeapon/Phlogistinator`
 - **License** - [https://github.com/Infinixius/tf2api/blob/main/LICENSE](https://github.com/Infinixius/tf2api/blob/main/LICENSE)
 - **Contact** - [https://infinixius.github.io](https://infinixius.github.io)
 - **Credits** - [https://infinixius.github.io/tf2api/Credits](https://infinixius.github.io/tf2api/Credits)
-# tf2
-# tf2
