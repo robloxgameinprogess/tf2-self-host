@@ -1,5 +1,5 @@
-NOTE: This is not mine, the original can be found here: https://github.com/Infinixius/tf2api/tree/main 
-These files are edited in order to self host and use my APIs project
+NOTE: This is not mine, the original can be found here: https://github.com/Infinixius/tf2api/
+These files are edited in order to self host and use my APIs project: https://github.com/JCS-Computer-Science/assignment-3-apis-and-data-structures-robloxgameinprogess/
 # tf2api
 
 A web API for parsing the Team Fortress 2 wiki and getting relevant information from it.
